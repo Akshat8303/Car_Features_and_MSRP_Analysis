@@ -1,4 +1,4 @@
-# Car_Features_and_MSRP_Analysis
+<h1 align="center" >Car_Features_and_MSRP_Analysis</h1>
 The provided Kaggle code presents an analysis of car features and their corresponding Manufacturer's Suggested Retail Price (MSRP). 
 
 # Dashboard
