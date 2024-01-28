@@ -2,7 +2,9 @@
 The provided Kaggle code presents an analysis of car features and their corresponding Manufacturer's Suggested Retail Price (MSRP). 
 
 # Dashboard
-![Screenshot 2024-01-28 160127](https://github.com/Akshat8303/Car_Features_and_MSRP_Analysis/assets/132274442/39924eab-9b1f-4a42-850f-51e4b5c05af4)
+
+![Screenshot 2024-01-28 161419](https://github.com/Akshat8303/Car_Features_and_MSRP_Analysis/assets/132274442/f333b537-52f2-4179-83e3-8032ca093cf0)
 
 
-![Screenshot 2024-01-28 154923](https://github.com/Akshat8303/Car_Features_and_MSRP_Analysis/assets/132274442/d971316e-7da9-43e3-8e17-4aebeb220004)
+
+![Screenshot 2024-01-28 161147](https://github.com/Akshat8303/Car_Features_and_MSRP_Analysis/assets/132274442/22a630d8-e24a-4db8-87de-e503483dc090)
